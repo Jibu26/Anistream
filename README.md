@@ -1,2 +1,11 @@
 # Anistream
-An Anime streaming website using HTML, CSS, JAVASCRIPT
+
+A streaming website using HTML and CSS
+
+Anistream is an anime streaming service 
+
+BY: JIBU K SAMUEL
+
+
+ ENJOY BOYSS!!!!!
+ 
